@@ -1,5 +1,5 @@
 ### ph-html
-- here i store all of the html-codes of class lecture of programming hero
+- here i store all of the html-codes of class lecture by programming hero
 
 
 ### programming hero
